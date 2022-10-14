@@ -100,6 +100,7 @@ span{
     left: 0;
     bottom: 0;
     z-index: -1;
+    transition: 0.5s;
 }
 span1{
     background: #f70e2148;
