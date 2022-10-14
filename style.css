@@ -33,7 +33,8 @@
     background-color: rgba(0,136,169,0.8);
 }
 .logo{
-    width: 120px;
+    height: 45px;
+    width: 45px;
     cursor: pointer;
 }
 .navbar ul li{
